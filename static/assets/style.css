@@ -1,0 +1,71 @@
+:root {
+  --color-gray: #6E6F73;
+  --color-gray-lighter: #87898C;
+  --color-gray-lightest: #CCCFD9;
+  --color-white: #F2F2F2;
+  --color-yellow: #F2C744;
+  --color-black: #272727;
+}
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  font-family: 'Heebo', 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+
+
+header,
+nav,
+footer {
+	display: flex;
+  flex-flow: row wrap;
+	justify-content: center;
+	align-content: center;
+  width: 100%;
+	max-width: 100%;
+}
+
+header {
+  padding: 1rem 0.5rem;
+}
+header img {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+}
+header h1 {
+  color: var(--color-yellow);
+  display: flex;
+  font-size: 1.5rem;
+	justify-content: center;
+  line-height: 1;
+  padding: 2rem 1rem 0 1rem;
+  width: 100%;
+}
+@media screen and (min-width: 40em) {
+  header h1 {
+    font-size: 4rem;
+    padding: 4rem 4rem 0;
+  }
+}
+main {
+  padding: 2rem 10%;
+  width: 100%;
+  max-width: 100%;
+}
+p, dd {
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+dl dt {
+  color: var(--color-yellow);
+  font-weight: bold;
+  font-size: 1.5rem;
+}

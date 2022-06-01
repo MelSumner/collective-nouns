@@ -1,0 +1,30 @@
+{
+	"name": "collective-nouns",
+	"version": "0.0.1",
+  "description": "Collective Nouns for the Web",
+  "repository": "https://github.com/MelSumner/collective-nouns.git",
+  "license": "MIT",
+  "author": "Melanie Sumner <melaniersumner@gmail.com>",
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"package": "svelte-kit package",
+		"preview": "svelte-kit preview",
+		"prepare": "svelte-kit sync",
+		"test": "playwright test",
+		"lint": "prettier --check --plugin-search-dir=. . && eslint .",
+		"format": "prettier --write --plugin-search-dir=. ."
+	},
+	"devDependencies": {
+		"@playwright/test": "^1.21.0",
+		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/kit": "next",
+		"eslint": "^8.12.0",
+		"eslint-config-prettier": "^8.3.0",
+		"eslint-plugin-svelte3": "^4.0.0",
+		"prettier": "^2.5.1",
+		"prettier-plugin-svelte": "^2.5.0",
+		"svelte": "^3.44.0"
+	},
+	"type": "module"
+}
