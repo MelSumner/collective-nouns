@@ -5,6 +5,11 @@
   "repository": "https://github.com/MelSumner/collective-nouns.git",
   "license": "MIT",
   "author": "Melanie Sumner <melaniersumner@gmail.com>",
+	"contributors": [
+		"Melanie Sumner <melaniersumner@gmail.com>",
+		"Ginger <contact@frankie.tech>",
+		"Christopher Kennedy <chris@onebrightlight.com>"
+	],
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
