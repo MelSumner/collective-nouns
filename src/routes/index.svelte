@@ -27,6 +27,12 @@
       <dd>*Needs Definition*</dd>
       <dt>Experience of Users</dt>
       <dd>*Needs Definition*</dd>
+      <dt>Rendering of Single Page Applications</dt>
+      <dd>*Needs Definition*</dd>
+      <dt>Abstraction of UI Components</dt>
+      <dd>*Needs Definition*</dd>
+      <dt>Chromium of Browsers</dt>
+      <dd>*Needs Definition*</dd>
     </dl>
   </section>
 </main>
