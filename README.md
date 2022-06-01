@@ -1,4 +1,5 @@
 # Collective Nouns for the Web
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ac5c94be-762d-4502-bf71-e26b09aeec2b/deploy-status)](https://app.netlify.com/sites/collective-nouns/deploys)
 
 It started as a joke, sort of, but then it seemed like a useful idea. This project intends to provide collective nouns for web-related terms.
 
