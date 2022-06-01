@@ -4,7 +4,10 @@
   <img src="https://user-images.githubusercontent.com/4587451/171517323-ad35f744-e167-43e9-aa44-41dc23313201.png" alt="" width="350" />
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ac5c94be-762d-4502-bf71-e26b09aeec2b/deploy-status)](https://app.netlify.com/sites/collective-nouns/deploys) 
+<p align="center">
+  <a href="https://app.netlify.com/sites/collective-nouns/deploys"><img src="https://api.netlify.com/api/v1/badges/ac5c94be-762d-4502-bf71-e26b09aeec2b/deploy-status" alt="Netlify Deploy Status"/></a> 
+  <a href="https://github.com/MelSumner/collective-nouns/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license"></a>
+</p>
 
 It started as a joke, sort of, but then it seemed like a useful idea. This project intends to provide collective nouns for web-related terms.
 
