@@ -13,25 +13,25 @@
       <dd>10 or more domains owned by a single person.</dd>
       <dt>Arsenal (of StackOverflow Answers)</dt>
       <dd>A stackoverflow question with 6 or more popular answers.</dd>
-      <dt>Parade of RSS Feeds</dt>
-      <dd>*Needs Definition*</dd>
-      <dt>Quabble of Twitter Opinions</dt>
+      <dt>Parade (of RSS Feeds)</dt>
+      <dd>So many RSS feeds that you have to scroll to see them all.</dd>
+      <dt>Quabble (of Twitter Opinions)</dt>
       <dd>The responses or quote tweets that spawn from an especially hot/unpleasant take.</dd>
-      <dt>Building of Frameworks</dt>
+      <dt>Building (of Frameworks)</dt>
       <dd>*Needs Definition*</dd>
-      <dt>Library of Libraries</dt>
+      <dt>Library (of Libraries)</dt>
       <dd>*Needs Definitions*</dd>
-      <dt>Megabyte of Javascript Developers</dt>
+      <dt>Megabyte (of Javascript Developers)</dt>
       <dd>Enough developers to drive a consenus that 1 megabyte of Javascript is reasonable.</dd>
-      <dt>Jira of Side Projects</dt>
+      <dt>Jira (of Side Projects)</dt>
       <dd>*Needs Definition*</dd>
-      <dt>Experience of Users</dt>
+      <dt>Experience (of Users)</dt>
       <dd>*Needs Definition*</dd>
-      <dt>Rendering of Single Page Applications</dt>
+      <dt>Rendering (of Single Page Applications)</dt>
+      <dd>Three or more distinct SPAs mashed together to appear as one to the end user.</dd>
+      <dt>Abstraction (of UI Components)</dt>
       <dd>*Needs Definition*</dd>
-      <dt>Abstraction of UI Components</dt>
-      <dd>*Needs Definition*</dd>
-      <dt>Chromium of Browsers</dt>
+      <dt>Chromium (of Browsers)</dt>
       <dd>*Needs Definition*</dd>
     </dl>
   </section>
