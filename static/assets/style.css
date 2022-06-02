@@ -58,10 +58,15 @@ header img {
 }
 /* main */
 main {
-  padding: 2rem 10%;
+  padding: 1rem 5%;
   width: 100%;
   max-width: 100%;
   flex: 1;
+}
+@media screen and (min-width:40em) {
+  main {
+    padding: 2rem 10%;
+  }
 }
 .intro {
   font-size: 1.5rem;
@@ -85,3 +90,12 @@ dl dt {
 }
 
 /* footer */
+footer {
+  color: var(--color-gray-lightest);
+  padding: 1rem 5%;
+}
+@media screen and (min-width:40em) {
+  footer {
+    padding: 2rem 10%;
+  }
+}
