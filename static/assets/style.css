@@ -5,6 +5,8 @@
   --color-white: #F2F2F2;
   --color-yellow: #F3D340;
   --color-black: #272727;
+  --font-serif: 'EB Garamond', serif;
+  --font-sans-serif: 'Heebo', 'Roboto', sans-serif;
 }
 *, *::after, *::before {
   box-sizing: border-box;
@@ -13,7 +15,7 @@
 body {
   background-color: var(--color-black);
   color: var(--color-white);
-  font-family: 'Heebo', 'Roboto', sans-serif;
+  font-family: var(--font-sans-serif);
   font-size: 16px;
   line-height: 1.5;
   overflow-x: hidden;
@@ -49,6 +51,9 @@ header h1 {
   max-width: 100%;
   padding: 0.8rem;
   width: 100%;
+  font-family: var(--font-serif);
+  /* EB Garamond being loaded is a variable font */
+  font-weight: 575;
 }
 
 header img {
@@ -87,6 +92,9 @@ dl dt {
   color: var(--color-yellow);
   font-weight: bold;
   font-size: 1.5rem;
+  font-family: var(--font-serif);
+  /* EB Garamond being loaded is a variable font */
+  font-weight: 575;
 }
 
 /* footer */
