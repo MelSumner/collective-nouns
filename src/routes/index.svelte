@@ -4,7 +4,7 @@
 
 <header>
   <h1 class="content-width">Collective Nouns for the Web</h1>
-  <img src="/assets/hero.png" alt="" width="500" />
+  <img src="/assets/hero.png" alt="" width="500" height="478" />
 </header>
 <main>
   <section>
