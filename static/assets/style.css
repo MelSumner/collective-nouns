@@ -90,11 +90,10 @@ p, dd {
 
 dl dt {
   color: var(--color-yellow);
-  font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-family: var(--font-serif);
-  /* EB Garamond being loaded is a variable font */
-  font-weight: 400;
+  font-weight: 500;
+  letter-spacing: 0.5px;
 }
 
 /* footer */
