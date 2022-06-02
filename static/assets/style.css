@@ -54,7 +54,8 @@ header h1 {
   width: 100%;
   font-family: var(--font-serif);
   /* EB Garamond being loaded is a variable font */
-  font-weight: 575;
+  font-weight: 700;
+  letter-spacing: 1px;
 }
 
 header img {
