@@ -22,7 +22,7 @@
       <dt>Quabble</dt>
       <dd>A <strong>quabble</strong> of Tweets is the responses or quote tweets that spawn from an especially hot/unpleasant take.</dd>
       <dt>Megabyte</dt>
-      <dd>A <strong>megabyte</strong> of JavaScript developers refers to enough developers to drive a consenus that 1 megabyte of JavaScript is entirely reasonable.</dd>
+      <dd>A <strong>megabyte</strong> of JavaScript developers refers to enough developers to drive a consensus that 1 megabyte of JavaScript is entirely reasonable.</dd>
       <dt>Rendering</dt>
       <dd>A <strong>rendering</strong> of Single-Page Applications is three or more distinct SPAs mashed together to appear as one to the end user.</dd>
     </dl>
