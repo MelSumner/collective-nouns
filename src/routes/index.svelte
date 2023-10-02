@@ -20,7 +20,9 @@
       <dt>Parade</dt>
       <dd>A <strong>parade</strong> of RSS feeds is when you have so many RSS feeds that you have to scroll to see them all.</dd>
       <dt>Quabble</dt>
-      <dd>A <strong>quabble</strong> of Tweets is the responses or quote tweets that spawn from an especially hot/unpleasant take.</dd>
+      <dd>A <strong>quabble</strong> of social media is the responses or posts that spawn from an especially hot/unpleasant take.</dd>
+      <dt>Xuabble</dt>
+      <dd>A <strong>xuabble</strong> of xeets is the responses or quote xeets that spawn from an especially hot/unpleasant take on X.</dd>
       <dt>Megabyte</dt>
       <dd>A <strong>megabyte</strong> of JavaScript developers refers to enough developers to drive a consensus that 1 megabyte of JavaScript is entirely reasonable.</dd>
       <dt>Rendering</dt>
