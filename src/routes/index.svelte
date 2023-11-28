@@ -1,3 +1,6 @@
+<script>
+  import Definition from "../lib/definition.svelte";
+</script>
 <svelte:head>
   <title>Collective Nouns for the Web</title>
 </svelte:head>
@@ -13,6 +16,11 @@
   <section>
     <!-- <h2>List of Collective Nouns</h2> -->
     <dl>
+      <Definition
+        term="Vanity"
+        definition="A vanity is ten(10) or more domains owned by a single person, where very few are in use."
+        category="Judgemental"
+      />
       <dt>Vanity</dt>
       <dd>A <strong>vanity</strong> is ten(10) or more domains owned by a single person, where very few are in use.</dd>
       <dt>Arsenal</dt>
