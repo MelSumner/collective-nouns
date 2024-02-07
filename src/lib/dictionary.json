@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "term": "Arsenal",
+      "definition": "A StackOverflow question with 6 or more popular answers."
+    },
+    {
+      "id": 2,
+      "term": "Parade",
+      "definition": "So many RSS feeds that you have to scroll to see them all."
+    },
+    {
+      "id": 3,
+      "term": "Megabyte",
+      "definition": "Enough developers to drive a consensus that 1 megabyte of JavaScript is entirely reasonable."
+    },
+    {
+      "id": 4,
+      "term": "Quabble",
+      "definition": "Social media responses or posts that spawn from an especially hot or unpleasant take."
+    },
+    {
+      "id": 5,
+      "term": "Rendering",
+      "definition": "Three or more single-page applications mashed together to appear as a single app to the end user."
+    },
+    {
+      "id": 6,
+      "term": "Vanity",
+      "definition": "Ten (10) or more domains owned by a single person, where very few are in use."
+    },
+    {
+      "id": 7,
+      "term": "Xuabble",
+      "definition": "Responses or quote xeets that spawn from an especially hot/unpleasant take on X"
+    },
+    {
+      "id": 8,
+      "term": "Braintrust",
+      "definition": "A group, typically made of executives, that have the power to proverbially swoop and poop on a project."
+    },
+    {
+      "id": 9,
+      "term": "Diatribe",
+      "definition": "A group of comments left on a pull-request that ultimately change the original scope of the work."
+    },
+    {
+      "id": 10,
+      "term": "Gommit",
+      "definition": "A group of commits submitted as a single commit."
+    },
+    {
+      "id": 11,
+      "term": "Hot Minute",
+      "definition": "A number of hours spent fixing a bug that ultimately ended up being a typo."
+    },
+    {
+      "id": 12,
+      "term": "Roost",
+      "definition": "Four (4) or more levels of nesting in Sass."
+    },
+    {
+      "id": 13,
+      "term": "Tababyte",
+      "definition": "Eight (8) open browser tabs in the same window. For example, two tababytes are equal to 16 open tabs."
+    }
+  ]
+}
