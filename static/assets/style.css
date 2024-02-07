@@ -5,9 +5,9 @@
   --color-white: #F2F2F2;
   --color-yellow: #F3D340;
   --color-black: #272727;
-  /** Fallback fonts are all from https://systemfontstack.com */
-  --font-serif: 'EB Garamond', Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-  --font-sans-serif: 'Heebo', 'Roboto', -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+ /** Fallback fonts are all from https://systemfontstack.com */
+ --font-serif: 'EB Garamond', Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+ --font-sans-serif: 'Heebo', 'Roboto', -apple-system, BlinkMacSystemFont sans-serif;
 }
 *, *::after, *::before {
   box-sizing: border-box;
@@ -58,12 +58,7 @@ header h1 {
   letter-spacing: 1px;
 }
 
-header img {
-  margin: 0 auto;
-  display: block;
-  max-width: 100%;
-  object-fit: contain;
-}
+
 /* main */
 main {
   padding: 1rem 5%;
@@ -76,8 +71,19 @@ main {
     padding: 2rem 10%;
   }
 }
+main > section {
+  /* padding: 1rem; */
+  max-inline-size: 85ch;
+  margin-inline: auto;
+}
+section img {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  object-fit: contain;
+}
 .intro {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 a, a:visited {
   color: var(--color-yellow);
@@ -87,16 +93,20 @@ a:hover {
 }
 
 p, dd {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: normal;
 }
 
 dl dt {
   color: var(--color-yellow);
-  font-size: 1.75rem;
+  font-size: 1.85rem;
   font-family: var(--font-serif);
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: 0.5px;
+}
+
+dd + dt {
+  margin-top: 1.5rem;
 }
 
 /* footer */
